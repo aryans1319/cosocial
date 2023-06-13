@@ -67,7 +67,6 @@ const updateContent = asyncHandler(async(req, res) => {
         })
     }
 })
-
 module.exports = {
     getAllContent,
     createContent,
